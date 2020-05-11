@@ -156,10 +156,10 @@ Add these strings to your respected Localization.Strings language file
 
 ## 📚 Documentation 
 
-- Step 1: Sign up for a developer account through [FaceX User Portal] (https://search.facex.io/#/register)
-- Step 2: Navigate to Plans & Payments Tab & Select  [Plans] (https://search.facex.io/#/home/payments/plans)
+- Step 1: Sign up for a developer account through [FaceX User Portal](https://search.facex.io/#/register)
+- Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
 - Step 3: Purchase a plan matching your requirement from the **Online Active Liveness SDK** 
-- Step 4: Navigate to Mobile SDK Tab & Select [License History] (https://search.facex.io/#/home/mobilesdk/license)
+- Step 4: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
 - Step 5: Download the plist file for iOS SDK
 - Step 6: Download the Online Active Livenesss iOS SDK from this Github [LivenessSDKOnline](https://friendlynandy.github.io/LivenessSDKOnline/)
 - Step 7: Add the plist file from the portal to your project. 
