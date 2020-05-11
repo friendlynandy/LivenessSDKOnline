@@ -36,7 +36,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 - Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
 - Step 3: Purchase a plan matching your requirement from the **Online Active Liveness SDK** 
 - Step 4: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
-- Step 5: Download the plist file for iOS SDK
+- Step 5: Download the plist file for iOS SDK from the online license section
 - Step 6: Download the Online Active Livenesss iOS SDK from this Github [LivenessSDKOnline](https://friendlynandy.github.io/LivenessSDKOnline/)
 - Step 7: Add the plist file from the portal to your project. 
 
