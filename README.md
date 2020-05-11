@@ -14,6 +14,7 @@ Brought to you by FaceX.io, this iOS LivenessSDKOnline can now be used to integr
 This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analyzed to verify and identify live visitors.  
 
 ## 📑 Index
+* [Documentation](#-documentation)
 * [Features](#-features)
    * [Utility](#utility)
    * [Liveness Detection by Motion](#liveness-detection-by-motion)   
@@ -27,9 +28,17 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
   * [Steps](#steps)
   * [Thresholds](#thresholds)  
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
-* [Documentation](#-documentation)
 * [License](#-license)
 
+## 📚 Documentation 
+
+- Step 1: Sign up for a developer account through [FaceX User Portal](https://search.facex.io/#/register)
+- Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
+- Step 3: Purchase a plan matching your requirement from the **Online Active Liveness SDK** 
+- Step 4: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
+- Step 5: Download the plist file for iOS SDK
+- Step 6: Download the Online Active Livenesss iOS SDK from this Github [LivenessSDKOnline](https://friendlynandy.github.io/LivenessSDKOnline/)
+- Step 7: Add the plist file from the portal to your project. 
 
 ## 🌟 Features
 
@@ -154,15 +163,6 @@ Add these strings to your respected Localization.Strings language file
 * iPadOS 13.0+
 * Swift 5
 
-## 📚 Documentation 
-
-- Step 1: Sign up for a developer account through [FaceX User Portal](https://search.facex.io/#/register)
-- Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
-- Step 3: Purchase a plan matching your requirement from the **Online Active Liveness SDK** 
-- Step 4: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
-- Step 5: Download the plist file for iOS SDK
-- Step 6: Download the Online Active Livenesss iOS SDK from this Github [LivenessSDKOnline](https://friendlynandy.github.io/LivenessSDKOnline/)
-- Step 7: Add the plist file from the portal to your project. 
 
 ## 👮🏻 License
 
